@@ -27,7 +27,7 @@
  <tr>
  <td>
  <h1>Toko Mainan Aman Sejahtera</h1>
-Jl. Sekeloa No. 56 No telepon 1234567890
+Jl. Sekeloa No. 56 No telepon 12345
  </td>
  </tr>
  </table>

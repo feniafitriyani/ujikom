@@ -21,7 +21,7 @@
 </head>
 <body>
 
-<h1 align="center">Tabel Transaksi</h1>
+<h1 align="center">Tabel Transaksi Barang</h1>
 
 <?php
 include "koneksi.php";
